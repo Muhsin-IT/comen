@@ -1,0 +1,8 @@
+.komen-wrapper { font-family: Arial; max-width: 600px; margin:0 auto; }
+.komen { border-bottom: 1px solid #ddd; padding: 8px 0; }
+.komen b { color: #333; }
+.episode-label { color: gray; font-size: 12px; margin-left:5px; }
+.komen-form { margin-top:15px; }
+.komen-form input, .komen-form textarea { width:100%; padding:5px; margin-bottom:5px; }
+.komen-form button { padding:5px 10px; }
+.komen-switch { margin-bottom:10px; }
